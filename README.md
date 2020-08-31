@@ -2,7 +2,7 @@
 
 Projeto Frases do Dia
 
-![](prints/apresentacao1.PNG)
+![](print.PNG)
 
 ## Getting Started
 
