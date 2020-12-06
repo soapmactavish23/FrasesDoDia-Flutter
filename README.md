@@ -1,10 +1,10 @@
-# frases_do_dia
+# Frases do Dia
 
 Projeto Frases do Dia
 
 ![](print.PNG)
 
-##Descrição
+## Descrição
 Este é meu primeiro App em Flutter, a função dele é mostrar uma frase positiva para o seu dia ao pressionar no botão
 
 ##Download do App
