@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧 Olx Clone 🚀 Concluido...  🚧
+	🚧 Frases do dia 🚀 Concluido...  🚧
 </h4>
 
 ## 📚 Descrição
